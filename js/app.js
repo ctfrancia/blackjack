@@ -1,6 +1,6 @@
-//hello
+//t 2
 
-//hello part 2
+// hello3
 var deck = [];
 var playerCards = [];
 var dealerCards = [];
